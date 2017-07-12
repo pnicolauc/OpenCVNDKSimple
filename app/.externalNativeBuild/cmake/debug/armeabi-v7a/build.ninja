@@ -37,7 +37,7 @@ build CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o: CXX_COMPILER__nat
   DEP_FILE = CMakeFiles\native-lib.dir\src\main\cpp\native-lib.cpp.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -isystem C:/Users/80nic/AppData/Local/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem C:/Users/80nic/AppData/Local/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem C:/Users/80nic/AppData/Local/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward
-  IN_ABS = C:\Users\80nic\Desktop\OpenCVNdk\app\src\main\cpp\native-lib.cpp
+  IN_ABS = C:\Users\80nic\Desktop\OpenCVNDKSimple\app\src\main\cpp\native-lib.cpp
   OBJECT_DIR = CMakeFiles\native-lib.dir
   OBJECT_FILE_DIR = CMakeFiles\native-lib.dir\src\main\cpp
 
@@ -64,7 +64,7 @@ build ../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\80nic\Desktop\OpenCVNdk\app\.externalNativeBuild\cmake\debug\armeabi-v7a && C:\Users\80nic\AppData\Local\Android\sdk\cmake\3.6.3155560\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\80nic\Desktop\OpenCVNDKSimple\app\.externalNativeBuild\cmake\debug\armeabi-v7a && C:\Users\80nic\AppData\Local\Android\sdk\cmake\3.6.3155560\bin\cmake.exe -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 build edit_cache: phony CMakeFiles/edit_cache.util
@@ -73,7 +73,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\80nic\Desktop\OpenCVNdk\app\.externalNativeBuild\cmake\debug\armeabi-v7a && C:\Users\80nic\AppData\Local\Android\sdk\cmake\3.6.3155560\bin\cmake.exe -HC:\Users\80nic\Desktop\OpenCVNdk\app -BC:\Users\80nic\Desktop\OpenCVNdk\app\.externalNativeBuild\cmake\debug\armeabi-v7a"
+  COMMAND = cmd.exe /C "cd /D C:\Users\80nic\Desktop\OpenCVNDKSimple\app\.externalNativeBuild\cmake\debug\armeabi-v7a && C:\Users\80nic\AppData\Local\Android\sdk\cmake\3.6.3155560\bin\cmake.exe -HC:\Users\80nic\Desktop\OpenCVNDKSimple\app -BC:\Users\80nic\Desktop\OpenCVNDKSimple\app\.externalNativeBuild\cmake\debug\armeabi-v7a"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1

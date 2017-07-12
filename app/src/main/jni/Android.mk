@@ -76,7 +76,7 @@ LOCAL_SHARED_LIBRARIES := Opencv-prebuilt
 # compute dependencies automatically for you, just list the source files
 # that will be passed directly to a compiler.
 
-LOCAL_SRC_FILES :=  mvo/mvo.cpp
+LOCAL_SRC_FILES :=  matFrame.cpp
 # By default, ARM target binaries will be generated in 'thumb' mode, where
 # each instruction is 16-bit wide. You can set this variable to 'arm' to
 # set the generation of the module's object files to 'arm' (32-bit

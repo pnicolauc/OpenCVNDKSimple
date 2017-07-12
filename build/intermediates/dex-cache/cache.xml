@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\80nic\Desktop\OpenCVNDKSimple\openCVLibrary310\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccf040d7d3c2e7d56b3c1be67fb78973118b1bfd">
+        <dex dex="C:\Users\80nic\Desktop\OpenCVNDKSimple\app\build\intermediates\pre-dexed\debug\classes_cefcad3eded4ecf3841af1746717a61c25c0a047.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\80nic\Desktop\OpenCVNdk\openCVLibrary310\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"

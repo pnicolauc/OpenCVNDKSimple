@@ -27,7 +27,7 @@ public class MenuActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         Intent i2 = new Intent(MenuActivity.this,
-                VOModule.class);
+                OpenCVModule.class);
         i2.putExtra("fl",3.5f);
         startActivity(i2);
         finish();
